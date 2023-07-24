@@ -1,0 +1,91 @@
+{
+    "signup": [
+        {
+            "firstname": " ",
+            "lastname": " ",
+            "email": " ",
+            "password": " "
+        }
+    ]
+}
+
+
+{
+    "profile": [
+        {
+            "id": " ",
+            "firstname": " ",
+            "lastname": " ",
+            "password": " ",
+            "email": " ",
+            "role": " ",
+            "address": [],
+            "paymentDetails": [],
+            "createdAt": " "
+        }
+    ]
+}
+
+
+{
+    "product":[
+        {
+            "imageUrl":"",
+            "brand":"",
+            "title":"",
+            "color":"",
+            "discountedPrice":"",
+            "price":"",
+            "discountedPercentange":"",
+            "sizes":[
+                {
+                    "name":"",
+                    "quantity":"",
+                }
+            ],
+            "totalQuantity":"",
+            "toplevelCategory":"",
+            "secondlevelCategory":"",
+            "thirdlevelCategory":"",
+            "description":"",
+        }
+    ]
+}
+
+{
+    "cart":[
+        {
+            "id": " ",
+            "firstname": " ",
+            "lastname": " ",
+            "password": " ",
+            "email": " ",
+            "role": " ",
+            "address": [],
+            "paymentDetails": [],
+            "createdAt": " ",
+            "cartItems":[],
+            "totalPrice":"",
+            "totalItems":"",
+            "totalDiscountedPrice":"",
+            "discount":"",
+        }
+
+    ]
+}
+
+{
+    "order":[
+        {
+            "firstname":"",
+            "lastname":"",
+            "streetAddress":"",
+            "city":"",
+            "state":"",
+            "pincode":"",
+            "mobile":""
+
+        }
+    ]
+}
+
